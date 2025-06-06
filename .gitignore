@@ -1,0 +1,17 @@
+# Ignore the patterns
+*.env
+*.cmd
+*.sh
+*.ps1
+__pycache__/
+
+# Ignore the folder
+14-bot-composer/
+
+# Ignore the files
+**/data_source.json
+**/skillset.json
+**/setup_output.txt
+bin
+obj
+

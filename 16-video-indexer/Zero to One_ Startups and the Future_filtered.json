@@ -1,0 +1,455 @@
+﻿{
+    "brands":  [
+                   {
+                       "id":  1,
+                       "referenceType":  "Wiki",
+                       "name":  "Google",
+                       "referenceId":  "Google",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Google",
+                       "description":  "Google is an American multinational technology company specializing in Internet-related services and products. These include online advertising technologies, search, cloud computing, and software. Most of its profits are derived from AdWords, an online advertising service that places advertising near the list of search results.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.59,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:02:42.68",
+                                             "adjustedEnd":  "0:02:46.68",
+                                             "start":  "0:02:42.68",
+                                             "end":  "0:02:46.68"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  2,
+                       "referenceType":  "Wiki",
+                       "name":  "PayPal",
+                       "referenceId":  "PayPal",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/PayPal",
+                       "description":  "PayPal Holdings, Inc. is an American company operating a worldwide online payments system. Online money transfers serve as electronic alternatives to traditional paper methods like checks and money orders. PayPal is one of the world\u0027s largest Internet payment companies.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.92,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:03:59.88",
+                                             "adjustedEnd":  "0:04:07.84",
+                                             "start":  "0:03:59.88",
+                                             "end":  "0:04:07.84"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  3,
+                       "referenceType":  "Wiki",
+                       "name":  "X.com",
+                       "referenceId":  "X.com",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/X.com",
+                       "description":  "X.com was an online bank started by Elon Musk in November, 1999 that later became PayPal. It was one of the world\u0027s first online banks. Its deposits were insured with FDIC. It had a partnership with Barclays. It was initially funded by Musk and his business mentor Greg Kouri, who went on to fund Musk\u0027s later startups Tesla and SpaceX.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.56,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:03:59.88",
+                                             "adjustedEnd":  "0:04:07.84",
+                                             "start":  "0:03:59.88",
+                                             "end":  "0:04:07.84"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  4,
+                       "referenceType":  "Wiki",
+                       "name":  "Google Search",
+                       "referenceId":  "Google_Search",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Google_Search",
+                       "description":  "Google Search, commonly referred to as Google Web Search or Google, is a web search engine owned by Google Inc. It is the most-used search engine on the World Wide Web, handling more than three billion searches each day. As of February 2015 it is the most used search engine in the US with 64.5% market share.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.89,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:04:57.36",
+                                             "adjustedEnd":  "0:04:58.92",
+                                             "start":  "0:04:57.36",
+                                             "end":  "0:04:58.92"
+                                         },
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:06:13.08",
+                                             "adjustedEnd":  "0:06:21.76",
+                                             "start":  "0:06:13.08",
+                                             "end":  "0:06:21.76"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  5,
+                       "referenceType":  "Wiki",
+                       "name":  "LinkedIn",
+                       "referenceId":  "LinkedIn",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/LinkedIn",
+                       "description":  "LinkedIn (/ˌliŋkt.ˈɪn/) is a business- and employment-oriented social networking service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. As of 2015, most of the company\u0027s revenue came from selling access to information about its members to recruiters and sales professionals. As of April 2017, LinkedIn had 500 million members in 200 countries, out of which more than 106 million members are active. LinkedIn allows members (both workers and employers) to create profiles and connections\" to each other in an online social network which may represent real-world professional relationships. Members can invite anyone (whether an existing member or not) to become a connection. The \"gated-access approach\" (where contact with any professional requires either an existing relationship or an introduction through a contact of theirs) is intended to build trust among the service\u0027s members. LinkedIn participated in the EU\u0027s International Safe Harbor Privacy Principles.\"",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.91,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:05:47.36",
+                                             "adjustedEnd":  "0:05:54.24",
+                                             "start":  "0:05:47.36",
+                                             "end":  "0:05:54.24"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  6,
+                       "referenceType":  "Wiki",
+                       "name":  "IPad (1st generation)",
+                       "referenceId":  "IPad_(1st_generation)",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/IPad_(1st_generation)",
+                       "description":  "The first-generation iPad is a tablet computer designed and marketed by Apple Inc. as the first in the iPad line. The device features an Apple A4 processor, a 9.7\" touchscreen display, and on certain variants the capability of accessing cellular networks. Using the iOS operating system, the iPad can play music, send and receive email and browse the web.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.85,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:06:13.08",
+                                             "adjustedEnd":  "0:06:21.76",
+                                             "start":  "0:06:13.08",
+                                             "end":  "0:06:21.76"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  7,
+                       "referenceType":  "Wiki",
+                       "name":  "Facebook",
+                       "referenceId":  "Facebook",
+                       "referenceUrl":  "https://en.wikipedia.org/wiki/Facebook",
+                       "description":  "Facebook is an American for-profit corporation and an online social media and social networking service based in Menlo Park, California. The Facebook website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.375,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:06:28.72",
+                                             "adjustedEnd":  "0:06:30.12",
+                                             "start":  "0:06:28.72",
+                                             "end":  "0:06:30.12"
+                                         },
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:06:34.6",
+                                             "adjustedEnd":  "0:06:37.88",
+                                             "start":  "0:06:34.6",
+                                             "end":  "0:06:37.88"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  8,
+                       "referenceType":  "Wiki",
+                       "name":  "Yahoo!",
+                       "referenceId":  "Yahoo!",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Yahoo!",
+                       "description":  "Yahoo Inc. (styled as Yahoo!) is an American multinational technology company headquartered in Sunnyvale, California. It is globally known for its Web portal, search engine Yahoo! Search, and related services, including Yahoo! Directory, Yahoo! Mail, Yahoo! News, Yahoo! Finance, Yahoo! Groups, Yahoo! Answers, advertising, online mapping, video sharing, fantasy sports and its social media website.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.41,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:07:06.72",
+                                             "adjustedEnd":  "0:07:13.32",
+                                             "start":  "0:07:06.72",
+                                             "end":  "0:07:13.32"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  9,
+                       "referenceType":  "Wiki",
+                       "name":  "Apple Inc.",
+                       "referenceId":  "Apple_Inc.",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Apple_Inc.",
+                       "description":  "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. Its hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, and the Apple Watch smartwatch.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.3,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:07:06.72",
+                                             "adjustedEnd":  "0:07:13.32",
+                                             "start":  "0:07:06.72",
+                                             "end":  "0:07:13.32"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  10,
+                       "referenceType":  "Wiki",
+                       "name":  "Airbnb",
+                       "referenceId":  "Airbnb",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Airbnb",
+                       "description":  "Airbnb is a website for people to list, find, and rent lodging. It has over 1,500,000 listings in 34,000 cities and 190 countries. Founded in August 2008 and headquartered in San Francisco, California, the company is privately owned and operated by Airbnb, Inc.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.88,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:08:07.84",
+                                             "adjustedEnd":  "0:08:09.72",
+                                             "start":  "0:08:07.84",
+                                             "end":  "0:08:09.72"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  11,
+                       "referenceType":  "Wiki",
+                       "name":  "Lyft",
+                       "referenceId":  "Lyft",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Lyft",
+                       "description":  "Lyft is a privately held American transportation network company (TNC) based in San Francisco, CA. Launched in June 2012 by Logan Green and John Zimmer, the company\u0027s mobile-phone application facilitates peer-to-peer ridesharing by connecting passengers who need a ride with drivers who have a car.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.85,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:08:09.72",
+                                             "adjustedEnd":  "0:08:11.04",
+                                             "start":  "0:08:09.72",
+                                             "end":  "0:08:11.04"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  12,
+                       "referenceType":  "Wiki",
+                       "name":  "Zocdoc",
+                       "referenceId":  "Zocdoc",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Zocdoc",
+                       "description":  "Zocdoc is an online medical care scheduling service, providing free of charge medical care search facility for end users by integrating information about medical practices and doctors\u0027 individual schedules in a central location.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.76,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:10:30.44",
+                                             "adjustedEnd":  "0:10:32.32",
+                                             "start":  "0:10:30.44",
+                                             "end":  "0:10:32.32"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  13,
+                       "referenceType":  "Wiki",
+                       "name":  "Warby Parker",
+                       "referenceId":  "Warby_Parker",
+                       "referenceUrl":  "http://en.wikipedia.org/wiki/Warby_Parker",
+                       "description":  "Warby Parker is an American brand of prescription eyeglasses and sunglasses founded in 2010. Warby Parker sells online and has a limited number of showrooms in the United States. The company was founded in 2010 by Neil Blumenthal, Andrew Hunt, David Gilboa, and Jeffrey Raider, and is headquartered in New York City.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.84,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "brandType":  "Transcript",
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:10:44.08",
+                                             "adjustedEnd":  "0:10:48.16",
+                                             "start":  "0:10:44.08",
+                                             "end":  "0:10:48.16"
+                                         }
+                                     ]
+                   }
+               ],
+    "name":  "Zero to One_ Startups and the Future",
+    "people":  [
+                   {
+                       "id":  1,
+                       "name":  "Peter Thiel",
+                       "referenceId":  "Peter_Thiel",
+                       "referenceUrl":  "https://en.wikipedia.org/wiki/Peter_Thiel",
+                       "description":  "By @peterthiel, with @bgmasters",
+                       "tags":  [
+
+                                ],
+                       "confidence":  1,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:00:14.48",
+                                             "adjustedEnd":  "0:00:22.36",
+                                             "start":  "0:00:14.48",
+                                             "end":  "0:00:22.36"
+                                         },
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:00:30.8",
+                                             "adjustedEnd":  "0:00:36.96",
+                                             "start":  "0:00:30.8",
+                                             "end":  "0:00:36.96"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  2,
+                       "name":  "Teal",
+                       "referenceId":  null,
+                       "referenceUrl":  null,
+                       "description":  null,
+                       "tags":  [
+
+                                ],
+                       "confidence":  0.955,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:01:29.4",
+                                             "adjustedEnd":  "0:01:31.32",
+                                             "start":  "0:01:29.4",
+                                             "end":  "0:01:31.32"
+                                         },
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:03:13.28",
+                                             "adjustedEnd":  "0:03:17.52",
+                                             "start":  "0:03:13.28",
+                                             "end":  "0:03:17.52"
+                                         },
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:04:30.44",
+                                             "adjustedEnd":  "0:04:36.04",
+                                             "start":  "0:04:30.44",
+                                             "end":  "0:04:36.04"
+                                         },
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:13:21.88",
+                                             "adjustedEnd":  "0:13:22.92",
+                                             "start":  "0:13:21.88",
+                                             "end":  "0:13:22.92"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  3,
+                       "name":  "Shakespeare",
+                       "referenceId":  null,
+                       "referenceUrl":  null,
+                       "description":  null,
+                       "tags":  [
+
+                                ],
+                       "confidence":  1,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:03:17.84",
+                                             "adjustedEnd":  "0:03:19.52",
+                                             "start":  "0:03:17.84",
+                                             "end":  "0:03:19.52"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  4,
+                       "name":  "Elon Musk",
+                       "referenceId":  "Elon_Musk",
+                       "referenceUrl":  "https://en.wikipedia.org/wiki/Elon_Musk",
+                       "description":  "American Engineer who founded PayPal, SpaceX, Tesla Motors and Neuralink. In 2018, his net worth was over $20.8 billion and he was ranked by Forbes as the 53rd richest person in the world.",
+                       "tags":  [
+
+                                ],
+                       "confidence":  1,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:03:59.88",
+                                             "adjustedEnd":  "0:04:07.84",
+                                             "start":  "0:03:59.88",
+                                             "end":  "0:04:07.84"
+                                         }
+                                     ]
+                   },
+                   {
+                       "id":  5,
+                       "name":  "Aaron Levy",
+                       "referenceId":  null,
+                       "referenceUrl":  null,
+                       "description":  null,
+                       "tags":  [
+
+                                ],
+                       "confidence":  1,
+                       "isCustom":  false,
+                       "instances":  [
+                                         {
+                                             "instanceSource":  "Transcript",
+                                             "adjustedStart":  "0:11:59.32",
+                                             "adjustedEnd":  "0:12:02.04",
+                                             "start":  "0:11:59.32",
+                                             "end":  "0:12:02.04"
+                                         }
+                                     ]
+                   }
+               ]
+}
